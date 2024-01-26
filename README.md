@@ -9,7 +9,7 @@ Eu sou o Renan Daltro, sou estudante de Engenharia de Software na Estácio (4°s
 * <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c-logo" />
   <br>
 
-e o banco de dados:
+e o Banco de dados:
 
 * <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL-logo" />
 
